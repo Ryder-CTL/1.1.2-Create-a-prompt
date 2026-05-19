@@ -1,6 +1,7 @@
 // Write your code for Part 1 below
 
-
+var favColor = prompt("What is your favorite color?");
+allert("Your favorite color is" + favColor "!");
 
 
 // Then, after your tried a prompt yourself,
